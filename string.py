@@ -1,6 +1,6 @@
 para = "This is a name"
 print(len(para))
-# strings are case senstive
+# strings are case sensitive
 print(para[0])
 # It returns first char from the end of string
 print(para[-1])
@@ -19,7 +19,7 @@ print(para[0:-1])
 b = []
 
 word_list = para.split()
-print (word_list)
+print(word_list)
 
 # print(a)
 """---- all the slicing will have a new memory location as string is immutable class the orignal value of
