@@ -24,14 +24,13 @@ print(word_list)
 # print(a)
 """---- all the slicing will have a new memory location as string is immutable class the orignal value of
  para will remain the same """
- # String Formatting
+ # String Formating
 
 first_name = "Ali"
 last_name = "M"
 full = f"{first_name} {last_name} {2+2}"
 # we can add any expression between these {bracket}
 print(full)
-
 
 # Methods of String
 para = "This is a name"
