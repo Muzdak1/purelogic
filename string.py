@@ -1,6 +1,6 @@
 para = "This is a name"
 print(len(para))
-
+# strings are case senstive
 print(para[0])
 # It returns first char from the end of string
 print(para[-1])
